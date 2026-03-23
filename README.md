@@ -15,7 +15,7 @@
 
 <td valign="middle" align="center" width="300">
   <img 
-    src="img.JPG" 
+    src="Ujwal image.jpeg" 
     alt="Profile Image" 
     width="250"
     style="border: 3px solid #31859C; border-radius: 50%; display: block; margin: auto;"
