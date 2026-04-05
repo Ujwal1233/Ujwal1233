@@ -4,53 +4,35 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ujwal1233-181717?style=for-the-badge&logo=github)](https://github.com/Ujwal1233)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Python+%26+Web+Development+Enthusiast;Frontend+%3A+HTML%2FCSS;Backend+%3A+Python+%26+Java+Basics;Deep+Learning+%26+Machine+Learning;Aspiring+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Python+%26+Full+Stack+Developer;Deep+Learning+Explorer;Building+Real+World+Projects;Always+Learning+🚀" />
 
 </div>
 
 ---
 
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
+## 🧑‍💻 About Me
 
-<td valign="middle" align="center" width="300">
-  <img 
-    src="Ujwal image.jpeg" 
-    alt="Profile Image" 
-    width="250"
-    style="border: 3px solid #31859C; border-radius: 50%; display: block; margin: auto;"
-  >
-</td>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-<td valign="middle" style="padding-left: 25px;">
-<div style="max-width: 520px;">
+Hi, I'm **Ujwal D** 👋  
+🎓 **AI & ML Engineering Student** passionate about building impactful tech solutions.
 
-## 👨‍💻 About Me
-
-Hi, I'm **Ujwal D**, a **Bachelor of Engineering student in Artificial Intelligence and Machine Learning** with a passion for building impactful projects using **Python, AI, Deep Learning, and Web Development**.
-
-- 💻 Interested in **Python, HTML, CSS, MongoDB, and React.js**
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, and Deep Learning**
-- 🚀 Passionate about solving real-world problems through technology
-- 📚 Quick learner with strong interest in scalable application development
-
-I enjoy learning new technologies, building practical projects, and continuously improving my technical and problem-solving skills.
-
-</div>
-</td>
-
-</tr>
-</table>
+- 💡 Interested in **Python, Web Development, AI & ML**
+- 🤖 Exploring **Deep Learning & Real-world AI Applications**
+- 🚀 Aspiring **Full Stack Developer**
+- 📈 Focused on **problem-solving & scalable systems**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Backend | Frontend | AI / ML | Database | Tools / Platforms |
-|--------|---------|---------|----------|-------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-Basics-orange?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![AI](https://img.shields.io/badge/AI-Fundamentals-blueviolet?style=for-the-badge) ![ML](https://img.shields.io/badge/Machine%20Learning-Concepts-success?style=for-the-badge) ![Deep%20Learning](https://img.shields.io/badge/Deep%20Learning-Concepts-red?style=for-the-badge) | ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+### 🚀 Languages & Tools
+
+| 💻 Backend | 🎨 Frontend | 🤖 AI / ML | 🗄️ Database | ⚙️ Tools |
+|-----------|------------|-----------|-------------|----------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-Basics-orange?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![AI](https://img.shields.io/badge/AI-blueviolet?style=for-the-badge) ![ML](https://img.shields.io/badge/Machine%20Learning-success?style=for-the-badge) ![DL](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
@@ -58,81 +40,79 @@ I enjoy learning new technologies, building practical projects, and continuously
 
 ## 🎓 Education
 
-- 🎓 **Bachelor of Engineering in Artificial Intelligence and Machine Learning**  
-  CGPA: **7.5** | City Engineering College (CEC) | **May 2026**
+🎓 **B.E in Artificial Intelligence & Machine Learning**  
+📍 City Engineering College (CEC) | 🗓️ 2026 | **CGPA: 7.5**
 
-- 📘 **Pre-University Education**  
-  CGPA: **8.0** | APS PU College of Science & Commerce | **Jun 2022**
-
-- 🏫 **Secondary Education**  
-  CGPA: **7.9** | Saandipini Hi-tech School | **May 2020**
+📘 **PUC** – APS College | CGPA: 8.0  
+🏫 **SSLC** – Saandipini School | CGPA: 7.9  
 
 ---
 
 ## 💼 Internship
 
-### 🔹 AI: Transformative Learning with TeckSaksham — Edunet Foundation
-**Dec 2024 – Jan 2025**
+### 🔹 AI: Transformative Learning – Edunet Foundation  
+📅 Dec 2024 – Jan 2025
 
-- Developed and implemented **AI projects using deep learning**
-- Worked on **machine learning, natural language processing, and data analysis**
-- Focused on **model building and real-world problem-solving**
+- Built AI models using **Deep Learning**
+- Worked on **NLP & Data Analysis**
+- Hands-on experience with **real-world AI problems**
 
 ---
 
 ## 🚀 Projects
 
-### 🩺 Pancreatic Cancer Detection and Diagnosis Using Deep Learning
-- Built and trained deep learning models using **TensorFlow** and **Keras**
-- Applied **Convolutional Neural Networks (CNNs)** for medical image analysis
-- Focused on **pancreatic disease detection and diagnosis**
+### 🩺 Pancreatic Cancer Detection
+- CNN-based model using **TensorFlow & Keras**
+- Medical image classification for disease detection
 
 ### 👗 AI Integrated Fashion Branding
-- Crafted integrated **fashion brand identity and marketing strategies**
-- Applied **AI/ML concepts** to solve real-world branding problems
+- Applied AI/ML in **marketing & branding strategies**
+- Real-world business problem solving
 
 ---
 
-## 🧠 Technical Expertise
+## 🧠 Expertise
 
-- Proficient in **Core Python, HTML, MongoDB, and React.js**
-- Skilled in building **backend logic, clean user interfaces, and NoSQL database handling**
-- Strong interest in **scalable applications** and collaborative development
+- ✅ Python Development  
+- ✅ Frontend Development (HTML, CSS)  
+- ✅ AI / ML Fundamentals  
+- ✅ Database Handling (SQL, MongoDB)  
+- ✅ Problem Solving & Logic Building  
 
 ---
 
-## 🏆 Certifications / Achievements
+## 🏆 Achievements
 
-- ✔ Internship on **AI: Transformative Learning** — Edunet Foundation
-- ✔ Pursuing **Python Full Stack Development** in Dhee Coding Lab
-- ✔ Completed **Machine Learning Course** in Simplilearn | SkillUp
-- ✔ Secured **2nd Prize** in NDLI Club project competition for a deep learning project
+- 🥇 2nd Prize – NDLI Project Competition  
+- 📜 ML Course – Simplilearn  
+- 💻 Python Full Stack – Dhee Coding Lab  
+- 🤖 AI Internship – Edunet Foundation  
 
 ---
 
 ## 🎯 Current Focus
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Deep Learning Projects
-- 🌐 Python Full Stack Development
-- 🚀 Real-world AI applications
+- 🤖 Artificial Intelligence & Deep Learning  
+- 🌐 Full Stack Development  
+- 📊 Real-world Project Building  
+- 🚀 Tech Skill Growth  
 
 ---
 
-## 🎨 Interpersonal Skills
+## 🎨 Soft Skills
 
-- Team player with strong coordination skills
-- Calm and focused mindset
-- Creative thinking and problem solving
-- Continuous learner with adaptability
+- 🤝 Team Collaboration  
+- 🧠 Problem Solving  
+- 🎯 Focus & Discipline  
+- 🔄 Adaptability  
 
 ---
 
-## 🌍 Languages Known
+## 🌍 Languages
 
-- English
-- Kannada
-- Hindi
+- English  
+- Kannada  
+- Hindi  
 
 ---
 
@@ -140,11 +120,11 @@ I enjoy learning new technologies, building practical projects, and continuously
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ujwal1233&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Ujwal1233&show_icons=true&theme=tokyonight" height="160"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal1233&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal1233&layout=compact&theme=tokyonight" height="160"/>
 
-![Streak](https://streak-stats.demolab.com?user=Ujwal1233&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Ujwal1233&theme=tokyonight" height="160"/>
 
 </div>
 
@@ -154,7 +134,7 @@ I enjoy learning new technologies, building practical projects, and continuously
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Ujwal1233)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ujwal1233)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujwaldhananjaya@gmail.com)
 
@@ -165,12 +145,18 @@ I enjoy learning new technologies, building practical projects, and continuously
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-### ⚡ *Learning today, building for tomorrow* 🚀
-
-### 🐍 Contribution Snake
-
 <img src="https://github.com/Ujwal1233/Ujwal1233/blob/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"Code. Learn. Build. Repeat."* 🚀
 
 </div>
